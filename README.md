@@ -1,4 +1,4 @@
-# Hi there👋
+# Hi There👋
 
 # 💫 About Me:
 🔭 I’m currently working on the DevOps-challenges on the tech-vault repo from @moabukar<br><br>🤝 Open to networking and collaboration in projects<br><br>🌱 I’m preparing for my Certified Cloud Practitioner exam<br><br>👉 Want to discuss anything Tech, Software Engineering & DevOps related? Feel free to connect with me on LinkedIn <br>
