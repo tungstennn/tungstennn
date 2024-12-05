@@ -1,4 +1,4 @@
-# Hi There 👋
+# Hi There, I'm Abdirahman 👋
 
 # 💫 About Me:
 🔭 I’m currently enrolled in a data engineering pathway where I’m learning skills such as designing and implementing data pipelines, building ETL processes, and managing data storage solutions.<br><br>
