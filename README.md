@@ -6,8 +6,7 @@
 🌱 I’m actively building projects and enhancing my skills in SQL, Python, Tableau, and AWS.<br><br>
 👉 Interested in discussing Data Engineering, Cloud Technologies, or Tech in general? Feel free to connect with me on LinkedIn.<br>
 
-## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdirahman-qorane-36189a182) 
+## 🌐 Connect with me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdirahman-qorane-36189a182) 
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
