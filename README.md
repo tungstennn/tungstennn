@@ -1,7 +1,7 @@
 # Hi There, I'm Abdirahman 👋
 
 # 💫 About Me:
-🔭 I’m currently enrolled in a data engineering programme where I’m learning skills such as designing and implementing data pipelines, building ETL processes, and managing data storage solutions.<br><br>
+🔭 I’m currently enrolled in a Data Engineering programme at Digital Futures where I’m learning skills such as designing and implementing data pipelines, building ETL processes, and managing data storage solutions.<br><br>
 🤝 Open to networking and collaborating on data engineering and tech projects.<br><br>
 🌱 I’m actively building projects and enhancing my skills in SQL, Python, Tableau, and AWS.<br><br>
 👉 Interested in discussing Data Engineering, Cloud Technologies, or Tech in general? Feel free to connect with me on LinkedIn.<br>
