@@ -1,14 +1,22 @@
-# Hi There👋
+# Hi There 👋
 
 # 💫 About Me:
-🔭 I’m currently working on the DevOps-challenges on the tech-vault repo from @moabukar<br><br>🤝 Open to networking and collaboration in projects<br><br>🌱 I’m preparing for my Certified Cloud Practitioner exam<br><br>👉 Want to discuss anything Tech, Software Engineering & DevOps related? Feel free to connect with me on LinkedIn <br>
-
+🔭 I’m currently enrolled in a data engineering bootcamp where I’m learning to lead the data revolution by mastering key skills such as designing and implementing data pipelines, building ETL processes, and managing data storage solutions.<br><br>
+🤝 Open to networking and collaborating on data engineering and tech projects.<br><br>
+🌱 I’m actively building projects and enhancing my skills in SQL, PowerShell, Tableau, and Docker.<br><br>
+👉 Interested in discussing Data Engineering, Cloud Technologies, or Tech in general? Feel free to connect with me on LinkedIn.<br>
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdirahman-qorane-36189a182) 
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![SQL](https://img.shields.io/badge/SQL-%230074D1.svg?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white) 
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) 
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=tungstennn&icon=0&color=0)](https://visitcount.itsvg.in)
