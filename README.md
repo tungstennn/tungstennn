@@ -18,7 +18,4 @@
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
----
-[![](https://visitcount.itsvg.in/api?id=tungstennn&icon=0&color=0)](https://visitcount.itsvg.in)
-
 
